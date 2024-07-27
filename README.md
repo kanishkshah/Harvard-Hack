@@ -11,7 +11,7 @@ This is a place where people can compete in their knowledge of Formula one. Ever
 
 Drive to survive already proved that the world is interested in who the drivers are as people, this draws on that very factor, which is why fantasy sports are so lucrative.
 
-# NFTs are have tangible value/ Blockchain usage is non-trivial:
+# NFTs are have tangible value:
 
 Based on the odds of a given overtake, you will get certain achievements. The rarer the achievement, the rarer the prediction, the higher the value
 
